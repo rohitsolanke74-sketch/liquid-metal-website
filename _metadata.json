@@ -1,0 +1,94 @@
+{
+  "hash": "69b075dd",
+  "configHash": "6c859e73",
+  "lockfileHash": "e4ee8580",
+  "browserHash": "e019b467",
+  "optimized": {
+    "@base-ui/react/button": {
+      "src": "../../@base-ui/react/button/index.mjs",
+      "file": "@base-ui_react_button.js",
+      "fileHash": "b481b589",
+      "needsInterop": false
+    },
+    "@base-ui/react/merge-props": {
+      "src": "../../@base-ui/react/merge-props/index.mjs",
+      "file": "@base-ui_react_merge-props.js",
+      "fileHash": "34e2a3fb",
+      "needsInterop": false
+    },
+    "@base-ui/react/use-render": {
+      "src": "../../@base-ui/react/use-render/index.mjs",
+      "file": "@base-ui_react_use-render.js",
+      "fileHash": "fdc4ea89",
+      "needsInterop": false
+    },
+    "@paper-design/shaders-react": {
+      "src": "../../@paper-design/shaders-react/dist/index.js",
+      "file": "@paper-design_shaders-react.js",
+      "fileHash": "541f408b",
+      "needsInterop": false
+    },
+    "class-variance-authority": {
+      "src": "../../class-variance-authority/dist/index.mjs",
+      "file": "class-variance-authority.js",
+      "fileHash": "3119114b",
+      "needsInterop": false
+    },
+    "cn": {
+      "src": "../../cn/dist/index.js",
+      "file": "cn.js",
+      "fileHash": "d760b600",
+      "needsInterop": false
+    },
+    "framer-motion": {
+      "src": "../../framer-motion/dist/es/index.mjs",
+      "file": "framer-motion.js",
+      "fileHash": "3399c6f7",
+      "needsInterop": false
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "a158c81f",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "3937b68f",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "964dceef",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "f3f64d82",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "75215c1a",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "merge-props-B4lpaVXg": {
+      "file": "merge-props-B4lpaVXg.js",
+      "isDynamicEntry": false
+    },
+    "rolldown-runtime-DC62tzP2": {
+      "file": "rolldown-runtime-DC62tzP2.js",
+      "isDynamicEntry": false
+    },
+    "useRenderElement-Cw_Loc55": {
+      "file": "useRenderElement-Cw_Loc55.js",
+      "isDynamicEntry": false
+    }
+  }
+}
